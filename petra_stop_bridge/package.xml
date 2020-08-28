@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package format="2">
-    <name>stop_controller</name>
+    <name>petra_stop_bridge</name>
     <version>1.0.0</version>
     <description>
         This package provides conversion for the bridged topic "Stop" from ROS1 to ROS2
