@@ -5,6 +5,8 @@ find_package(catkin REQUIRED COMPONENTS
   roscpp
   std_msgs
   actionlib_msgs
+  geometry_msgs
+  move_base_msgs
 )
 
 ################################################
