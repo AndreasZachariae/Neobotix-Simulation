@@ -1,1 +1,0 @@
-catkin_make --pkg petra_stop_bridge
